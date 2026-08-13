@@ -1,0 +1,11 @@
+{
+  "method": "sigmoid",
+  "temperature": 1.0,
+  "a": 3.580422945886905,
+  "b": 0.15793641911607717,
+  "band_real_min": 70.0,
+  "band_suspicious_min": 40.0,
+  "source_model": "tfidf_logreg",
+  "val_brier_before": 0.002691226329647129,
+  "val_brier_after": 1.5359879264573952e-09
+}
